@@ -1,0 +1,49 @@
+body{
+    /*background-color: rgb(11, 155, 251);*/
+    background: linear-gradient(90deg, #1089cf, #00aeff);
+}
+#main{
+    margin: auto;
+    margin-top: 3%;
+    background-color: #F4FFF9;
+    width: 65%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+p{
+    text-align: justify;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+li a{
+    color: #575DEB;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+li{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+h2{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+a{
+    color: #575DEB;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    text-decoration: none;
+}
+h1{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+img{
+    width: 350px;
+    background-color: #B5D4E9;
+    border-radius: 180px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+hr{
+    height: 6px;
+    border-radius: 20%;
+}
